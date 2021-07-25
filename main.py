@@ -2,7 +2,7 @@ from turtle import color
 import turtle 
 turtle.speed(speed=10)
 color('red', 'yellow')
-turtle.width(width="20")
+turtle.width(width="10")
 turtle.home()
 turtle.right(90)
 turtle.forward(100)
